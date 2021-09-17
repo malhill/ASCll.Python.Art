@@ -21,5 +21,3 @@ H   H
 
 print(first_initial, second_initial)
 
-#I like to play video games
-print()
